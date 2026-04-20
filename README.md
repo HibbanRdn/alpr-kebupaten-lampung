@@ -1,5 +1,5 @@
-# 🚗 ALPR Lampung
-### Automatic License Plate Recognition untuk Identifikasi Wilayah Kendaraan Provinsi Lampung
+# 🚗 ALPR Kabupaten Lampung
+### Automatic License Plate Recognition untuk Identifikasi Wilayah Kabupaten Kendaraan Provinsi Lampung
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00BFFF?style=flat-square)
